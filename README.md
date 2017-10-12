@@ -1,0 +1,2 @@
+# EasyType
+Husky ADAPT EasyType
